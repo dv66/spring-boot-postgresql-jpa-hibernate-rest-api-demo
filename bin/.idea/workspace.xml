@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0e2f9891-c9a4-41e6-91d2-9037fd6924ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/postgresdemo/PostgresDemoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/postgresdemo/PostgresDemoApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/postgresdemo/controller/AnswerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/postgresdemo/controller/AnswerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/postgresdemo/controller/QuestionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/postgresdemo/controller/QuestionController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/postgresdemo/exception/ResourceNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/postgresdemo/exception/ResourceNotFoundException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/postgresdemo/model/Answer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/postgresdemo/model/Answer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/postgresdemo/model/AuditModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/postgresdemo/model/AuditModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/postgresdemo/model/Question.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/postgresdemo/model/Question.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/postgresdemo/repository/AnswerRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/postgresdemo/repository/AnswerRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/postgresdemo/repository/QuestionRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/postgresdemo/repository/QuestionRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/postgresdemo/PostgresDemoApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/postgresdemo/PostgresDemoApplicationTests.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,10 +11,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -55,20 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/postgresdemo/controller/AnswerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/postgresdemo/PostgresDemoApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="-30">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -241,15 +218,16 @@
       <updated>1562666622651</updated>
       <workItem from="1562666627522" duration="4267000" />
       <workItem from="1562730622496" duration="29000" />
-      <workItem from="1562731951843" duration="2419000" />
+      <workItem from="1562731951843" duration="529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6715000" />
+    <option name="totallyTimeSpent" value="4825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1411" y="25" width="1321" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25333333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -273,7 +251,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Run" order="14" weight="0.40716612" />
+      <window_info active="true" anchor="bottom" id="Run" order="14" visible="true" weight="0.40716612" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -334,15 +312,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/postgresdemo/controller/AnswerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/postgresdemo/PostgresDemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="-30">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
